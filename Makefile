@@ -1,7 +1,7 @@
 all:
-	for i in wallpapers; do $(MAKE) -C $$i $@; done
+	for i in wallpaper; do $(MAKE) -C $$i $@; done
 
 clean:
-	for i in wallpapers; do $(MAKE) -C $$i $@; done
+	for i in wallpaper; do $(MAKE) -C $$i $@; done
 
 distclean: clean

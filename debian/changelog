@@ -4,5 +4,6 @@ sidux-art-pontos (0.0) unstable; urgency=low
   * update wallpaper for inkscape 0.46-2 
   * add first draft makefile for wallpapers
   * add first draft toplevel makefile
+  * makefile should reference a dir that exists (wallpaper no s)
 
- -- Bernard Gray <bernard.gray@gmail.com>  Thu, 09 Oct 2008 14:23:38 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 09 Oct 2008 14:26:05 +1100
