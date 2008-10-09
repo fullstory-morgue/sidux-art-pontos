@@ -17,4 +17,4 @@ all: $(BITMAPS)
 		--export-png="$(NAME)-1920x1200.png" $(SVG)
 
 clean:
-	rm -f *.png
+	$(RM) *.png
