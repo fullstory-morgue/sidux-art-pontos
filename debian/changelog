@@ -2,5 +2,6 @@ sidux-art-pontos (0.0) unstable; urgency=low
 
   * Initial Release.
   * update wallpaper for inkscape 0.46-2 
+  * add first draft makefile for wallpapers
 
- -- Bernard Gray <bernard.gray@gmail.com>  Wed, 08 Oct 2008 20:40:54 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 09 Oct 2008 14:06:36 +1100
