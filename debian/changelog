@@ -7,5 +7,6 @@ sidux-art-pontos (0.0) unstable; urgency=low
   * makefile should reference a dir that exists (wallpaper no s)
   * use make RM builtin instead of rm -f
   * learnt about $@ operator, use it to clean up inkscape export commands
+  * add makefiles for all subdirs 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Thu, 09 Oct 2008 17:20:38 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 18 Oct 2008 21:08:27 +1100
