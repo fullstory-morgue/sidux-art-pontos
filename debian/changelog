@@ -9,5 +9,7 @@ sidux-art-pontos (0.0) unstable; urgency=low
   * learnt about $@ operator, use it to clean up inkscape export commands
   * add makefiles for all subdirs 
   * add install files for packages 
+  * modify rules to build via Makefiles
+  * adjust rest of the package so it builds succesfully
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sat, 18 Oct 2008 21:23:21 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 25 Oct 2008 00:23:47 +1100

@@ -23,4 +23,4 @@ splash_top.png:
 
 
 clean:
-	$(RM) *.png
+	$(RM) $(BITMAPS)
