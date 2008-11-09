@@ -13,5 +13,6 @@ sidux-art-pontos (0.0) unstable; urgency=low
   * adjust rest of the package so it builds succesfully
   * soften contrast on wallpaper sun 
   * delete unused wide svg - widescreen bitmaps built from normal svg
+  * prepare kdm theme 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Tue, 28 Oct 2008 13:54:57 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 09 Nov 2008 17:47:28 +1100
