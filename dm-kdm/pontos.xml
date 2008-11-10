@@ -22,7 +22,7 @@
 	<!-- Login Area -->
 	<item type="rect" id="loginbox">
 
-		<normal color="#4e6748" alpha="0.6"/>
+		<normal color="#000000" alpha="0.6"/>
 		<pos x="0" y="0" anchor="nw" width="45%" height="100%" />
 
 		<!-- Welcome message box -->
