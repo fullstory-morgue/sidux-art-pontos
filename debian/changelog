@@ -18,5 +18,6 @@ sidux-art-pontos (0.0) unstable; urgency=low
   * adjust kdm screen rect colour, make it darker=better
   * prepare gdm theme
   * prepare ksplash theme 
+  * prepare xfce splash theme
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 16 Nov 2008 00:17:22 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 16 Nov 2008 00:26:40 +1100
