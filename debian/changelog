@@ -1,3 +1,9 @@
+sidux-art-pontos (0.3) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 14:56:30 +0100
+
 sidux-art-pontos (0.2) unstable; urgency=low
 
   * make lintian happy with s/succesfully/successfully/ in debian/changelog.
