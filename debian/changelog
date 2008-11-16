@@ -1,3 +1,9 @@
+sidux-art-pontos (0.2) unstable; urgency=low
+
+  * make lintian happy with s/succesfully/successfully/ in debian/changelog.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 14:51:56 +0100
+
 sidux-art-pontos (0.1) unstable; urgency=low
 
   * Initial Release.
@@ -10,7 +16,7 @@ sidux-art-pontos (0.1) unstable; urgency=low
   * add makefiles for all subdirs 
   * add install files for packages 
   * modify rules to build via Makefiles
-  * adjust rest of the package so it builds succesfully
+  * adjust rest of the package so it builds successfully
   * soften contrast on wallpaper sun 
   * delete unused wide svg - widescreen bitmaps built from normal svg
   * prepare kdm theme 
