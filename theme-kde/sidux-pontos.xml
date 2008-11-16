@@ -4,7 +4,7 @@
     <author value="sidux Art Team" />
     <email value="bernard.gray@gmail.com" />
     <homepage value="http://www.sidux.com" />
-    <comment value="sidux Ourea Theme for 2008-03 release" />
+    <comment value="sidux pontos Theme for 2008-04 release" />
     <version value="1.0" />
   </general>
   <desktop number="0" common="1" >
@@ -13,7 +13,7 @@
     <color2 rgb="#000000" />
     <blending mode="NoBlending" balance="100" reverse="0" />
     <pattern name="" />
-    <wallpaper mode="Scaled" url="/usr/share/wallpapers/sidux-ourea-1600x1200.png" />
+    <wallpaper mode="Scaled" url="/usr/share/wallpapers/sidux-pontos-1600x1200.png" />
   </desktop>
   <screensaver name="" />
   <icons name="crystalsvg" >

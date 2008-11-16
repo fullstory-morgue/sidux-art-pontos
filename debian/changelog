@@ -1,8 +1,8 @@
-sidux-art-pontos (0.3) UNRELEASED; urgency=low
+sidux-art-pontos (0.3) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix naming and paths for ksplash.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 14:56:30 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 17:10:49 +0100
 
 sidux-art-pontos (0.2) unstable; urgency=low
 
