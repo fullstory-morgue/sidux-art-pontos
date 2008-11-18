@@ -1,9 +1,5 @@
-sidux-art-pontos (0.4) UNRELEASED; urgency=low
+sidux-art-pontos (0.4) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * add Preview for ksplash
   * add screenshot for kdm theme 
   * add screenshot for gdm theme 
