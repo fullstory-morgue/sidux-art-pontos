@@ -1,8 +1,14 @@
 sidux-art-pontos (0.4) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 17:14:11 +0100
+  [ Bernard Gray ]
+  * add Preview for ksplash
+  * add screenshot for kdm theme 
+  * add screenshot for gdm theme 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Tue, 18 Nov 2008 15:58:45 +1100
 
 sidux-art-pontos (0.3) unstable; urgency=low
 
