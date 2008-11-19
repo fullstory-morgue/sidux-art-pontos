@@ -1,3 +1,9 @@
+sidux-art-pontos (0.6) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 19 Nov 2008 20:01:17 +0100
+
 sidux-art-pontos (0.5) unstable; urgency=low
 
   * modify gdm to display better for low resolutions
