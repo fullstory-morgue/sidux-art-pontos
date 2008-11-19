@@ -62,11 +62,11 @@
 			</item>
 
 			<item type="rect" id="userlist-rect">
-				<normal color="#FFFFFF" alpha="0.8" font="Sans 12" />
+				<normal color="#FFFFFF" alpha="1.0" font="Sans 12" />
 				<pos anchor="ne" x="48%" y="40%" width="box" height="box"/>
 				<box orientation="vertical" min-width="140" max-width="180" min-height="170" xpadding="4" ypadding="4" spacing="0">
 					<item type="list" id="userlist">
-						<normal color="#FFFF1F" alpha="0.5" />
+						<normal color="#FFFFFF" alpha="0.5" />
 						<pos x="0" y="0" width="160" height="170" anchor="nw"/>
 						<color iconcolor="#FFFFFF" labelcolor="#FFFFFF"/>
 					</item>
