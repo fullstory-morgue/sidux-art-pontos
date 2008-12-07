@@ -1,8 +1,12 @@
 sidux-art-pontos (0.6) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 19 Nov 2008 20:01:17 +0100
+  [ Bernard Gray ]
+  * remove unused -edu package
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 07 Dec 2008 21:36:48 +1100
 
 sidux-art-pontos (0.5) unstable; urgency=low
 

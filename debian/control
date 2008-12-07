@@ -43,15 +43,6 @@ Description: sidux wallpaper for 2008-04 release
  The official wallpaper for the 2008-04 (Pontos)
  sidux release. 
 
-Package: sidux-art-wallpaper-pontos-edu
-Provides: sidux-art-wallpaper-theme
-Conflicts: sidux-art-wallpaper-pontos
-Architecture: all
-Description: sidux-edu wallpaper for 2008-04 release
- the wallpaper for the 2008-04 (Pontos)
- sidux-edu release. Includes 1920x1200, 1600x1200
- and 1280x1024 versions
-
 Package: sidux-art-kde-pontos
 Architecture: all
 Provides: sidux-art-kde-theme
