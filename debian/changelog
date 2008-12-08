@@ -1,9 +1,5 @@
-sidux-art-pontos (0.6) UNRELEASED; urgency=low
+sidux-art-pontos (0.6) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * remove unused -edu package
 
  -- Bernard Gray <bernard.gray@gmail.com>  Sun, 07 Dec 2008 21:36:48 +1100
