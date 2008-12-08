@@ -3,35 +3,41 @@ Section: graphics
 Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
 Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Build-Depends: debhelper (>= 7), inkscape, ttf-sidux
+Build-Depends: debhelper (>= 7),
+               inkscape,
+               ttf-sidux
 Standards-Version: 3.8.0
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-pontos/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-pontos/trunk/
 
 Package: sidux-art-gdm-pontos
 Architecture: all
-Depends: gdm
+Depends: ${misc:Depends},
+         gdm
 Description: GDM theme for sidux 2008-04 release
  the default GDM theme for the 2008-04 (Pontos)
  sidux release.
 
 Package: sidux-art-kdm-pontos
 Architecture: all
-Depends: kdm
+Depends: ${misc:Depends},
+         kdm
 Description: KDM theme for sidux 2008-04 release
  the default KDM theme for the 2008-04 (Pontos)
  sidux release.
 
 Package: sidux-art-ksplash-pontos
 Architecture: all
-Depends: ksplash
+Depends: ${misc:Depends},
+         ksplash
 Description: KDE ksplash theme for sidux 2008-04 release
  the default KDE ksplash theme for the 2008-04 
  (Pontos) sidux release, using the default ksplash engine
 
 Package: sidux-art-xsplash-pontos
 Architecture: all
-Depends: xfce4-session
+Depends: ${misc:Depends},
+         xfce4-session
 Description: Xfce splash theme for sidux 2008-04 release
  the default Xfce splash theme for the 2008-04 
  (Pontos) sidux release, based on balou theme engine.
@@ -39,6 +45,7 @@ Description: Xfce splash theme for sidux 2008-04 release
 Package: sidux-art-wallpaper-pontos
 Architecture: all
 Provides: sidux-art-wallpaper-theme
+Depends: ${misc:Depends}
 Description: sidux wallpaper for 2008-04 release
  The official wallpaper for the 2008-04 (Pontos)
  sidux release. 
@@ -46,7 +53,11 @@ Description: sidux wallpaper for 2008-04 release
 Package: sidux-art-kde-pontos
 Architecture: all
 Provides: sidux-art-kde-theme
-Depends: sidux-art-ksplash-pontos, sidux-art-kdm-pontos, kde-style-qtcurve, gtk2-engines-qtcurve
+Depends: ${misc:Depends},
+         sidux-art-ksplash-pontos,
+         sidux-art-kdm-pontos,
+         kde-style-qtcurve,
+         gtk2-engines-qtcurve
 Recommends: sidux-art-wallpaper-pontos, dmz-cursor-theme
 Description: KDE theme for sidux 2008-04 release
  Virtual package providing ksplash, kdm and KDE themes
@@ -55,7 +66,9 @@ Description: KDE theme for sidux 2008-04 release
 Package: sidux-art-xfce-pontos
 Architecture: all
 Provides: sidux-art-xfce-theme
-Depends: sidux-art-xsplash-pontos, sidux-art-gdm-pontos
+Depends: ${misc:Depends},
+         sidux-art-xsplash-pontos,
+         sidux-art-gdm-pontos
 Recommends: sidux-art-wallpaper-pontos, dmz-cursor-theme
 Description: Xfce theme for sidux 2008-04 release
  Virtual package providing Xfce-splash and gdm themes
