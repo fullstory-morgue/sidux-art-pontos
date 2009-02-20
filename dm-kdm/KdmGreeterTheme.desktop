@@ -2,7 +2,6 @@
 Author=sidux art team
 Copyright=GPL
 Description="sidux 2008-04 pontos" 
-Encoding=UTF-8
 Greeter=pontos.xml
 Name=sidux-pontos
 Screenshot=screenshot.jpg
