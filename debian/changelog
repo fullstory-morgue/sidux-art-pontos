@@ -1,3 +1,9 @@
+sidux-art-pontos (0.9) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 17:49:28 +0100
+
 sidux-art-pontos (0.8) unstable; urgency=low
 
   * fix desktop-entry-contains-encoding-key.
