@@ -1,8 +1,9 @@
-sidux-art-pontos (0.9) UNRELEASED; urgency=low
+sidux-art-pontos (0.9) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * ugly hack to remove /etc/default/kdm.d/kdmtheme, which would break on
+    upgrades to kde4.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 17:49:28 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 06 Apr 2009 21:37:33 +0200
 
 sidux-art-pontos (0.8) unstable; urgency=low
 
