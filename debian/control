@@ -18,21 +18,21 @@ Description: GDM theme for sidux 2008-04 release
  the default GDM theme for the 2008-04 (Pontos)
  sidux release.
 
-Package: sidux-art-kdm-pontos
-Architecture: all
-Depends: ${misc:Depends},
-         kdm
-Description: KDM theme for sidux 2008-04 release
- the default KDM theme for the 2008-04 (Pontos)
- sidux release.
-
-Package: sidux-art-ksplash-pontos
-Architecture: all
-Depends: ${misc:Depends},
-         ksplash
-Description: KDE ksplash theme for sidux 2008-04 release
- the default KDE ksplash theme for the 2008-04 
- (Pontos) sidux release, using the default ksplash engine
+#Package: sidux-art-kdm-pontos
+#Architecture: all
+#Depends: ${misc:Depends},
+#         kdm
+#Description: KDM theme for sidux 2008-04 release
+# the default KDM theme for the 2008-04 (Pontos)
+# sidux release.
+#
+#Package: sidux-art-ksplash-pontos
+#Architecture: all
+#Depends: ${misc:Depends},
+#         ksplash
+#Description: KDE ksplash theme for sidux 2008-04 release
+# the default KDE ksplash theme for the 2008-04 
+# (Pontos) sidux release, using the default ksplash engine
 
 Package: sidux-art-xsplash-pontos
 Architecture: all
@@ -50,18 +50,18 @@ Description: sidux wallpaper for 2008-04 release
  The official wallpaper for the 2008-04 (Pontos)
  sidux release. 
 
-Package: sidux-art-kde-pontos
-Architecture: all
-Provides: sidux-art-kde-theme
-Depends: ${misc:Depends},
-         sidux-art-ksplash-pontos,
-         sidux-art-kdm-pontos,
-         kde-style-qtcurve,
-         gtk2-engines-qtcurve
-Recommends: sidux-art-wallpaper-pontos, dmz-cursor-theme
-Description: KDE theme for sidux 2008-04 release
- Virtual package providing ksplash, kdm and KDE themes
- for sidux 2008-04 (Pontos) release
+#Package: sidux-art-kde-pontos
+#Architecture: all
+#Provides: sidux-art-kde-theme
+#Depends: ${misc:Depends},
+#         sidux-art-ksplash-pontos,
+#         sidux-art-kdm-pontos,
+#         kde-style-qtcurve,
+#         gtk2-engines-qtcurve
+#Recommends: sidux-art-wallpaper-pontos, dmz-cursor-theme
+#Description: KDE theme for sidux 2008-04 release
+# Virtual package providing ksplash, kdm and KDE themes
+# for sidux 2008-04 (Pontos) release
 
 Package: sidux-art-xfce-pontos
 Architecture: all

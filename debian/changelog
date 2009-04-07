@@ -1,8 +1,8 @@
-sidux-art-pontos (0.10) UNRELEASED; urgency=low
+sidux-art-pontos (0.10) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * temporarily drop kde3 themes, until they can be adapted.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 06 Apr 2009 21:38:55 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 07 Apr 2009 23:20:03 +0200
 
 sidux-art-pontos (0.9) unstable; urgency=low
 
