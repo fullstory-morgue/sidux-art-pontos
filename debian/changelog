@@ -1,8 +1,9 @@
-sidux-art-pontos (0.11) UNRELEASED; urgency=low
+sidux-art-pontos (0.11) ORPHANED; urgency=low
 
   * NOT RELEASED YET
+  * ORPHAN PACKAGE, moved to sidux-art-legacy.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 07 Apr 2009 23:22:04 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 19 Apr 2009 14:02:15 +0200
 
 sidux-art-pontos (0.10) unstable; urgency=low
 
